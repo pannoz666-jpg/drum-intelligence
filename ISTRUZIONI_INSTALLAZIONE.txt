@@ -1,0 +1,10 @@
+DRUM INTELLIGENCE 2.3 – INSTALLAZIONE ANDROID
+
+1. Estrai tutti i file dello ZIP in una nuova cartella.
+2. Apri https://app.netlify.com/drop e accedi al tuo account.
+3. Carica la cartella estratta contenente index.html e tutti gli altri file, in un nuovo sito indipendente. Se dal telefono non riesci a caricare la cartella, usa un computer.
+4. Apri l’indirizzo HTTPS assegnato da Netlify in Chrome sul cellulare.
+5. Premi Installa app dalla pagina iniziale, se disponibile, oppure ⋮ > Installa app / Aggiungi alla schermata Home.
+6. Dopo il primo caricamento online le risorse interne sono disponibili offline; i link esterni richiedono Internet.
+
+Non è un APK. Non è ancora pubblicata online. I progressi sono memorizzati nel browser/dominio. Non cambiare dominio se vuoi mantenere i progressi. Le funzioni di fotocamera, microfono e MIDI dipendono dal dispositivo e dai permessi. Il riconoscimento da foto è sperimentale e richiede conferma manuale. Il coach è a regole, non AI generativa. Le canzoni commerciali sono riferimenti di ricerca, non partiture incluse.
